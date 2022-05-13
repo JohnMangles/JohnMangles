@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JohnMangles
+- 👀 I’m interested in Data Science and Software Engineering
